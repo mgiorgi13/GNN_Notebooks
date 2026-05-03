@@ -10,3 +10,4 @@ seaborn
 torch==2.2.2
 torch-geometric
 numpy>=2,<3
+dlg
